@@ -17,7 +17,14 @@ ExportedObj/
 *.pidb
 *.booproj
 *.svd
+.project
 
+*.zip
+*.rar
+*.exe
+
+*.exr
+LightmapSnapshot.asset
 
 # Unity3D generated meta files
 *.pidb.meta
